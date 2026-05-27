@@ -21,7 +21,7 @@ const Action = () => {
       title: "Maze Runner",
       description:
         "A group of teenagers wake up trapped in a giant maze with no memory of their past. To survive, they must work together to find a way out while facing deadly creatures and mysterious challenges inside the maze.A thrilling sci-fi adventure full of action, mystery, and survival.",
-      rating: 7.5,
+      rating: 6.8,
     },
     {
       src: "images/Action/Mirage.png",

@@ -6,19 +6,19 @@ const Comedy = () => {
       src: "images/Comedy/HomeAlone.png",
       title: "Home Alone",
       description: "A young boy is accidentally left behind when his family goes on vacation. At first he enjoys being alone, but soon he has to protect his home from two burglars using clever traps and tricks.A funny and heartwarming holiday movie full of chaos and creativity.",
-      rating: 7.0,
+      rating: 7.7,
     },
     {
       src: "images/Comedy/pizzamovie.png",
-      title: "Pizza",
+      title: "Pizza Movie",
       description: "A simple and funny story centered around a group of friends whose lives get unexpectedly complicated after a pizza delivery goes wrong. What starts as an ordinary day quickly turns into a series of chaotic and hilarious events.A light comedy filled with fun moments and unexpected situations.",
-      rating: 7.0,
+      rating: 6.2,
     },
     {
       src: "images/Comedy/thefamilyplan.png",
       title: "The Family Plan",
       description: "A former assassin is trying to live a normal family life, but his past suddenly catches up with him. He is forced to take his family on the run while hiding his true identity, leading to a mix of action and comedy.A fun action-packed movie about family, secrets, and survival.",
-      rating: 7.0,
+      rating:6.8,
     },
   ];
   return (
