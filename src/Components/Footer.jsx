@@ -1,4 +1,4 @@
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 const Footer = () => {
     return (
         <footer className="text-center">

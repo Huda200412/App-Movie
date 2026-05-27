@@ -1,7 +1,7 @@
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 const MyButton = ({ text, onClick }) => {
   return (
-    <div className="btn btn-outline-success" onClick={onClick}>
+    <div className="btn btn-dark mt-auto w-100 rounded-3" onClick={onClick}>
       {text}
     </div>
   );

@@ -1,7 +1,6 @@
 const About = () => {
   return (
-    <div>
-      <h1>About</h1>
+    <div className="container mt-4">
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed corporis
         totam ipsum nostrum modi quasi dicta beatae labore adipisci amet
