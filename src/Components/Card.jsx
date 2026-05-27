@@ -9,7 +9,7 @@ const Card = ({ src, title, description, rating }) => {
         <p className="card-text text-muted"  style={{ fontSize: "14px" }}>{description}</p>
         <p className="card-text">Rating: {rating}</p>
       </div>
-      <MyButton  text="Tap to watch" onClick={() => alert("Card Added!")} />
+      <MyButton  text="Tap to watch" onClick={() => alert("Enjoy Watching!!")} />
     </div>
   );
 };
