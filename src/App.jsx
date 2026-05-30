@@ -10,8 +10,9 @@ import About from "./Pages/About";
 function App() {
   return (
     <Router>
-      <NavBar />
+      <NavBar /> 
       <Routes>
+        <Route path="/" element={<TopRated />} />
         <Route path="/TopRated" element={<TopRated />} />
         <Route path="/Comedy" element={<Comedy />} />
         <Route path="/Horror" element={<Horror />} />
